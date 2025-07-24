@@ -101,6 +101,7 @@ pip install numpy pandas matplotlib pillow
 ## Notes
 
 - Update all hardcoded paths in scripts to match your environment.
+- Some PHP backend code (ex: Concatenation.php) is referenced but not included - to do.
 
 ## Additional Images
 
