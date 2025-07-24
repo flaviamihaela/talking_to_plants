@@ -1,16 +1,9 @@
 <img width="1970" height="1058" alt="image" src="https://github.com/user-attachments/assets/4557c8af-b60f-4060-b50a-749abffa8eba" />
 
-<img width="576" height="451" alt="image" src="https://github.com/user-attachments/assets/9b04ec13-e897-40a9-b95b-51fb6adc16a2" />
-
 <img width="543" height="468" alt="image" src="https://github.com/user-attachments/assets/4ac0f7f3-fc4d-4a98-a12e-9865f321bb5c" />
-
-<img width="1102" height="506" alt="image" src="https://github.com/user-attachments/assets/73a65bbc-b52b-4256-911f-8029dd8f0444" />
 
 <img width="476" height="363" alt="image" src="https://github.com/user-attachments/assets/c279998c-05c8-47d0-b3a5-0ba9ac3c092f" />
 
-<img width="778" height="496" alt="image" src="https://github.com/user-attachments/assets/77cc3276-8c3d-4296-9f53-e641bf7b9f21" />
-
-<img width="1100" height="614" alt="image" src="https://github.com/user-attachments/assets/71c2f832-f93e-461f-9cfc-e38c3a07a174" />
 
 # Talking to Plants
 
@@ -18,7 +11,11 @@
 
 This project is a multi-component system for collecting, processing, and analyzing plant fluorescence data. It includes firmware for ESP32-based sensor nodes and gateways, offline Python scripts for image and data processing, and PHP scripts for database interaction and web-based data management. The system is designed to facilitate high-throughput plant phenotyping and data-driven plant research.
 
+<img width="1100" height="614" alt="image" src="https://github.com/user-attachments/assets/71c2f832-f93e-461f-9cfc-e38c3a07a174" />
+
 ## Key Features
+
+<img width="778" height="496" alt="image" src="https://github.com/user-attachments/assets/77cc3276-8c3d-4296-9f53-e641bf7b9f21" />
 
 - **ESP32 Node & Gateway Firmware**: Code for sensor nodes and gateways (Arduino IDE, ESP32) to collect and transmit plant data.
 - **Offline Image Processing**: Python scripts to process fluorescence images, generate false-color stacks, and analyze fluorescence response.
@@ -108,3 +105,8 @@ pip install numpy pandas matplotlib pillow
 ## Notes
 
 - Update all hardcoded paths in scripts to match your environment.
+
+## Additional Images
+
+<img width="1102" height="506" alt="image" src="https://github.com/user-attachments/assets/73a65bbc-b52b-4256-911f-8029dd8f0444" />
+
