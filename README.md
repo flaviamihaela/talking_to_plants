@@ -1,9 +1,5 @@
 <img width="1970" height="1058" alt="image" src="https://github.com/user-attachments/assets/4557c8af-b60f-4060-b50a-749abffa8eba" />
 
-<img width="543" height="468" alt="image" src="https://github.com/user-attachments/assets/4ac0f7f3-fc4d-4a98-a12e-9865f321bb5c" />
-
-<img width="476" height="363" alt="image" src="https://github.com/user-attachments/assets/c279998c-05c8-47d0-b3a5-0ba9ac3c092f" />
-
 
 # Talking to Plants
 
@@ -108,5 +104,12 @@ pip install numpy pandas matplotlib pillow
 
 ## Additional Images
 
+### Website
 <img width="1102" height="506" alt="image" src="https://github.com/user-attachments/assets/73a65bbc-b52b-4256-911f-8029dd8f0444" />
+
+<img width="543" height="468" alt="image" src="https://github.com/user-attachments/assets/4ac0f7f3-fc4d-4a98-a12e-9865f321bb5c" />
+
+### False Colouring of Leaf - Colour Key (right) Indicates Highest to Lowest Light Intensity (top to bottom)
+
+<img width="476" height="363" alt="image" src="https://github.com/user-attachments/assets/c279998c-05c8-47d0-b3a5-0ba9ac3c092f" />
 
